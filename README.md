@@ -13,9 +13,9 @@ The above can also be done with just JavaScript also, but it is very difficult a
 Document Object Model => created by browser using the HTML files, as per the tags in the HTML. This forms a tree-like structure which is called as DOM.
 
 Broswer <br>
---$\rarr$ gets HTML and creates **DOM** <br>
---$\rarr$ gets CSS and applies the **styling** to the respective DOM elements (HTML tags) <br>
---$\rarr$ JS may next **modify the DOM** as per the logic programmed/on user actions.
+---> gets HTML and creates **DOM** <br>
+---> gets CSS and applies the **styling** to the respective DOM elements (HTML tags) <br>
+---> JS may next **modify the DOM** as per the logic programmed/on user actions.
 
 DOM manipulation using only JS becomes difficult when working on big applications. REACT abstracts away this difficulty with JS because JS is cumbersome, error-prone, and hard to maintain.
 
@@ -49,7 +49,7 @@ A REACT application is a **"tree"** of Components with the **App Component** as 
 ## Setup
 
 1. download and install **_Node.JS_**
-2. Install VSCode extensions : **_Live Server, Prettier_**, and change setting to wrap words (Ctrl+P $\rarr$ Word Wrap) and Tab size 2 (default is 4)
+2. Install VSCode extensions : **_Live Server, Prettier_**, and change setting to wrap words (Ctrl+P $ \rarr $ Word Wrap) and Tab size 2 (default is 4)
 
 <br><hr>
 
