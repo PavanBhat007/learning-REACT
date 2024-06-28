@@ -143,19 +143,19 @@ $ npm run dev
 ```
 
 
-| File                     | Description                                                                 |
-| :----------------------- | :-------------------------------------------------------------------------- | -------------------------------- |
-| **`node_modules/`**      | contains all the installes node packages                                    |
-| **`public/`**            | contains the static files that don't change                                 |
-| **`src/`**               | is the main folder for all the REACT code                                   |
-| **`src/components/`**    | contains reusable parts of UI aka "components"                              |
-| **`src/assets/`**        | contains images, fonts and other static files                               |
-| **`src/styles/`**        | contains CSS stylesheets                                                    |
-| **`package.json`**       | contains information of project like project                                | name, version, dependencies, etc |
-| **`vite.config.js`**     | contains the Vite configuration information.                                |
-| **`.eslintrc.cjs`**      | linting tool configs                                                        |
-| **`.gitignore`**         | tells git to ingnore some particular files when pushing                     |
-| **`package-lock.jsnon`** | created when app is run and stores the current configs as in `package.json` |
+| File                     | Description                                                                   |
+| :----------------------- | :---------------------------------------------------------------------------- |
+| **`node_modules/`**      | contains all the installed node packages                                      |
+| **`public/`**            | contains the static files that don't change                                   |
+| **`src/`**               | is the main folder for all the REACT code                                     |
+| **`src/components/`**    | contains reusable parts of UI aka "components"                                |
+| **`src/assets/`**        | contains images, fonts and other static files                                 |
+| **`src/styles/`**        | contains CSS stylesheets                                                      |
+| **`package.json`**       | contains information of project like project name, version, dependencies, etc |
+| **`vite.config.js`**     | contains the Vite configuration information.                                  |
+| **`.eslintrc.cjs`**      | linting tool configs                                                          |
+| **`.gitignore`**         | tells git to ingnore some particular files when pushing                       |
+| **`package-lock.jsnon`** | created when app is run and stores the current configs as in `package.json`   |
 
 <br><hr>
 
