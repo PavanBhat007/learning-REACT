@@ -155,3 +155,7 @@ $ npm run dev
 | **`package-lock.jsnon`** | created when app is run and stores the current configs as in `package.json` |
 
 <br><hr>
+
+## Next steps
+
+Next all the instructions and information/explanation is written in the code itself using example and code comments :)
