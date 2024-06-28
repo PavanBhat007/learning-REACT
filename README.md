@@ -1,6 +1,10 @@
+First of all, hats off to this legend [BroCode](https://www.youtube.com/@BroCodez)
+
+> REACT Tutorial link [React Full Course for free ⚛️ (2024)](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+
 # **REACT JS**
 
-React is a JavaScript **framework/library** for web-development, to build dynamic and interactive UI.
+React is a JavaScript **library** for web-development, to build dynamic and interactive UI.
 
 Mainly used to develop Single Page Applications (SPAs). SPAs are web-apps with only 1 page where the content dynamically changes i.e., the page never gets reloaded upon interactions. Only the content that has to change will be changed rest will stay the same and hence the page need not reload every time.
 
@@ -55,10 +59,10 @@ A REACT application is a **"tree"** of Components with the **App Component** as 
 
 ## Creating a REACT App
 
-| CRA (Create-React-App) | Vite |
-|:-------:|:------:|
-| Official tool | Modern tool that produces a quick and small bundle |
-| `npm start` to lauch dev server. | `npm run dev` to lauch dev server. |
+|      CRA (Create-React-App)      |                        Vite                        |
+| :------------------------------: | :------------------------------------------------: |
+|          Official tool           | Modern tool that produces a quick and small bundle |
+| `npm start` to lauch dev server. |         `npm run dev` to lauch dev server.         |
 
 We shall use Vite.
 
@@ -137,21 +141,21 @@ $ npm run dev
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 ```
+
 ![Initial app](./images/image.png)
 
-
-| File | Description |
-|:------|:------|
-| **`node_modules/`** | contains all the installes node packages |
-| **`public/`** | contains the static files that don't change |
-| **`src/`** | is the main folder for all the REACT code |
-| **`src/components/`** | contains reusable parts of UI aka  "components" |
-| **`src/assets/`** | contains images, fonts and other static files |
-| **`src/styles/`** | contains CSS stylesheets |
-| **`package.json`** | contains information of project like project  |name, version, dependencies, etc
-| **`vite.config.js`** | contains the Vite configuration information. |
-| **`.eslintrc.cjs`** | linting tool configs |
-| **`.gitignore`** | tells git to ingnore some particular files when pushing |
+| File                     | Description                                                                 |
+| :----------------------- | :-------------------------------------------------------------------------- | -------------------------------- |
+| **`node_modules/`**      | contains all the installes node packages                                    |
+| **`public/`**            | contains the static files that don't change                                 |
+| **`src/`**               | is the main folder for all the REACT code                                   |
+| **`src/components/`**    | contains reusable parts of UI aka "components"                              |
+| **`src/assets/`**        | contains images, fonts and other static files                               |
+| **`src/styles/`**        | contains CSS stylesheets                                                    |
+| **`package.json`**       | contains information of project like project                                | name, version, dependencies, etc |
+| **`vite.config.js`**     | contains the Vite configuration information.                                |
+| **`.eslintrc.cjs`**      | linting tool configs                                                        |
+| **`.gitignore`**         | tells git to ingnore some particular files when pushing                     |
 | **`package-lock.jsnon`** | created when app is run and stores the current configs as in `package.json` |
 
 <br><hr>
